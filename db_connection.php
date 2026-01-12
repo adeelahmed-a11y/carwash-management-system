@@ -1,0 +1,9 @@
+<?php
+$host="localhost";
+$username="root";
+$password="";
+$db_name="car_wash";
+$con=mysqli_connect($host,$username,$password,$db_name);
+session_start();
+date_default_timezone_set("Asia/Karachi");
+?>
