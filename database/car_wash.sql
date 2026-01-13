@@ -293,8 +293,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `email`, `contact`, `password`, `city`, `address`, `image`) VALUES
-(1, 'Adeel Ahmed', 'adeelhayat110@gmail.com', '03049834989', '123', 'Islamabad', 'Ali Town', 'man profile.png'),
-(2, 'Sami Khan', 'a@gmail.com', '03436117656', '123', 'Rawalpindi', 'House 6 defence colony rawalpindi Pakistan', 'pp.jpg');
+(1, 'Adeel A', 'admin123@gmail.com', '03123456789', '123', 'Islamabad', 'New City Area', 'man profile.png'),
+(2, 'Sami K', 'a@gmail.com', '03123456780', '123', 'Rawalpindi', 'Address goes here', 'pp.jpg');
 
 --
 -- Indexes for dumped tables
