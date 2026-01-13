@@ -209,7 +209,6 @@ The system includes pre-configured test accounts for immediate evaluation:
 - **Permissions**: Full administrative access to all system features
 
 ### Customer Test Accounts
-- **Email**: adeelhayat110@gmail.com | **Password**: 123
 - **Email**: a@gmail.com | **Password**: 123
 - **Access**: Customer portal with booking and payment capabilities
 
@@ -491,3 +490,4 @@ For issues, feature requests, or general inquiries:
 ## License
 
 This project is provided as-is for educational purposes. It was developed as a Final Year Project (FYP) in a web development course. No specific license is applied at this time.
+
